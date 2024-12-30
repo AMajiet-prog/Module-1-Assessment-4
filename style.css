@@ -1,0 +1,47 @@
+h1{
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: center;
+    }
+
+
+
+#menu-bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: burlywood;
+    padding: 5px;
+    }
+
+
+table{
+    font-family: Arial, Helvetica, sans-serifsans-serif;
+    border-collapse: collapse;
+    border-width   : 3px;
+    border-style   : dotted;
+    border-color   : #D20103;
+    }
+
+table a {
+    text-decoration: none;
+    }
+
+a {
+    text-decoration: none;
+    color:darkblue
+    }
+
+a:hover {
+    color: red;
+        }
+
+th{
+    font-weight: 800;
+    background-color: #EFC3CA;
+    color: #060270;
+    }
+
+th.rank {
+    width: 5%
+}
+}
